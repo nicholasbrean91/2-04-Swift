@@ -1,4 +1,4 @@
-// Created by: Julie Nguyen
+// Created by: Nicholas Brean
 // Created on: Dec 2018
 // Created for: ICS4U
 // MrCoxallStack program stack file
